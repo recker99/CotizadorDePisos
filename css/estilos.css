@@ -1,0 +1,40 @@
+body {
+	background: #f2f2f2;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* --- FORMULARIO --- */
+.formulario {
+	padding: 20px 0;
+	border-top: 1px solid #cbcbcb;
+	border-bottom: 1px solid #cbcbcb;
+	margin-bottom: 40px;	
+}
+
+.formulario .titulo {
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 5px;
+    text-align: left;
+}
+
+.label {
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 5px;
+	text-align: left;
+    font-weight:bold;
+}
+
+.detalle .subtitulo{
+    font-family: 'Open Sans', sans-serif;
+	margin-top: 60px;
+	text-align: center;
+    font-size:22px;
+}
+
+.resultado{
+    font-family: 'Open Sans', sans-serif;
+	text-align: center;
+    font-size: 35px;
+}
+
+
